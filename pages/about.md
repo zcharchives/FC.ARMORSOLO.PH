@@ -30,5 +30,4 @@ This page aims to make art and history more accessible to students, researchers,
 
 ## Credit
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+This database was created by Ciallina Punzalan, Hailia Sawyer, and Zean Unabia in partial fulfillment of the requirements for ARTOO3: Arts Appreciation (2nd Semester, AY 2025-2026) under the guidance of Prof. Adrian Mendizabal. 
